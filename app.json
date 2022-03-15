@@ -5,8 +5,8 @@
   "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
     "stack": "container",
     "env": {
-        "PINKY_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+        "BAILEYS_SESSION": {
+            "description": "Pleas enter your baileys session.",
             "required": true
         }
 	},
