@@ -3,8 +3,14 @@
   "description": "Hmm... nothing here",
   "repository": "https://github.com/Alien-Alfa/AlienAlfaBot",
   "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
-	  "buildpacks": [
+    "stack": "container",
+	    "env": {
+        "BAILEYS_SESSION": {
+            "description": "Pleas enter your baileys session",
+            "required": true,
+        }
+	},
+	"buildpacks": [
     {
       "url": "heroku/nodejs"
     },
