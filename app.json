@@ -22,48 +22,8 @@
         "BAILEYS_SESSION": {
             "description": "Pleas enter your baileys session",
             "required": true,
-        }, 
-        "OWNER_NUMBER": {
-            "description": "Pleas enter owner number",
-            "required": true,
-            "value": "447405935355"
-        },
-        "OWNER_NAME": {
-            "description": "Pleas enter owner name",
-            "required": true,
-            "value": "Alien-Alfa"
-        }, 
-        "WORK_TYPE": {
-            "description": "public or private true or false",
-            "required": true,
-            "value": "false"
-        },
-        "AUTO_READ": {
-            "description": "Automatic chat reading true or false",
-            "required": true,
-            "value": "false"
-        },
-        "AUTO_STICKER": {
-            "description": "Automatic filterd sticker sending function true or false",
-            "required": true,
-            "value": "false"
-        },
-        "AUTO_VN": {
-            "description": "Automatic filterd voice note sending function true or false",
-            "required": true,
-            "value": "false"
-        },
-        "BOT_NAME": {
-            "description": "Name of your bot",
-            "required": true,
-            "value": "Aline-Alfa-Bot"
-        },
-        "MENU_LOGO": {
-            "description": "Icon or emoji to show in menu list",
-            "required": true,
-            "value": "*"
         }
-	},
+       },
 
    "formation": {
         "worker": {
