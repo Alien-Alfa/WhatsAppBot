@@ -61,8 +61,8 @@
         "MENU_LOGO": {
             "description": "Icon or emoji to show in menu list",
             "required": true,
-            "value": "𒆜"
-        }, 
+            "value": "*"
+        }
 	},
 
    "formation": {
