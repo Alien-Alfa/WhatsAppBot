@@ -18,13 +18,6 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
-    "env": {
-        "BAILEYS_SESSION": {
-            "description": "Pleas enter your baileys session",
-            "required": true,
-        }
-       },
-
    "formation": {
         "worker": {
             "quantity": 1,
