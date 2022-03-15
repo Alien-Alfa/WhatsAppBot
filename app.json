@@ -21,35 +21,35 @@
     "env": {
         "BAILEYS_SESSION": {
             "description": "Pleas enter your baileys session",
-            "required": true
+            "required": true,
         }, 
         "OWNER_NUMBER": {
             "description": "Pleas enter owner number",
-            "required": true
+            "required": true,
             "value": "447405935355"
         },
         "OWNER_NAME": {
             "description": "Pleas enter owner name",
-            "required": true
+            "required": true,
             "value": "Alien-Alfa"
         }, 
         "WORK_TYPE": {
-            "description": "public or private(true or false)",
+            "description": "public or private true or false",
             "required": true,
             "value": "false"
         },
         "AUTO_READ": {
-            "description": "Automatic chat reading(true or false)",
+            "description": "Automatic chat reading true or false",
             "required": true,
             "value": "false"
         },
         "AUTO_STICKER": {
-            "description": "Automatic filterd sticker sending function(true or false)",
+            "description": "Automatic filterd sticker sending function true or false",
             "required": true,
             "value": "false"
         },
         "AUTO_VN": {
-            "description": "Automatic filterd voice note sending function(true or false)",
+            "description": "Automatic filterd voice note sending function true or false",
             "required": true,
             "value": "false"
         },
