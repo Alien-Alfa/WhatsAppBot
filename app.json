@@ -4,8 +4,8 @@
   "repository": "https://github.com/Alien-Alfa/AlienAlfaBot",
   "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
-  "website":   "https://safwanganz.github.io/",
-    "success_url": "",
+/* "website":   "https://safwanganz.github.io/",
+   "success_url": "",
     "env": {
         "BAILEYS_SESSION": {
             "description": "Pleas enter your baileys session",
@@ -50,8 +50,8 @@
             "description": "Icon or emoji to show in menu list",
             "required": true,
             "value": "𒆜"
-        },
-	},
+        }, 
+	},*/
   "buildpacks": [
     {
       "url": "heroku/nodejs"
