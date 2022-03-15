@@ -1,8 +1,8 @@
 {
   "name": "Alien Alfa Bot",
-  "description": "whatsapp bot build with nodejs",
+  "description": "Hmm... nothing here",
   "repository": "https://github.com/Alien-Alfa/AlienAlfaBot",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
+  "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
 	  "buildpacks": [
     {
@@ -18,9 +18,7 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
-/* "website":   "https://safwanganz.github.io/",
-   "success_url": "",
-    "env": {
+/*    "env": {
         "BAILEYS_SESSION": {
             "description": "Pleas enter your baileys session",
             "required": true
