@@ -2,5 +2,3 @@
 build:
   docker:
       worker: /node_modules/api-alphabot/Dockerfile
-run:
-   worker: npm start
