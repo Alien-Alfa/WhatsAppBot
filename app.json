@@ -6,7 +6,7 @@
     "stack": "container",
     "env": {
         "BAILEYS_SESSION": {
-            "description": "Pleas enter your baileys session!.",
+            "description": "Pleas enter your baileys session.",
             "required": true
         }
 	},
