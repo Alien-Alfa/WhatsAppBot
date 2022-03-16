@@ -33,6 +33,7 @@
 
 <a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/AlienAlfaBot"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
+  ##DONT FORGET TO FORK FIRST!!
   
 # `CHANGE THESE SETTINGS`
 
