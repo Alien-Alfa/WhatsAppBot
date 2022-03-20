@@ -49,6 +49,11 @@
             "required": true,
                 "value": "𒆜"
         }, 
+	"MENU_LOGO2": {
+            "description": "Icon or emoji to show in menu list.",
+            "required": true,
+                "value": "𒆜"
+        }, 
         "AUTO_TYPE": {
             "description": "Automatic typing status.(true or false).",
             "required": true,
