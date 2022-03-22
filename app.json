@@ -38,7 +38,12 @@
             "description": "Automatic filterd voice note sending function(true or false).",
             "required": true,
                 "value": "false"
-        }, 
+        },
+	"MENU_TYPE": {
+            "description": "menu template Options:(loc, pic, link)",
+            "required": true,
+                "value": "link"
+        },
         "BOT_NAME": {
             "description": "Pleas enter your BOT Name.",
             "required": true,
