@@ -31,13 +31,13 @@
  
 <a href="https://replit.com/@Alien-Alfa/ALIEN-ALFA-BOT"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/AlienAlfaBot"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/WhatsAppBot"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
   # `FORK THIS BEFORE PROCEEDING`
  
   `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/AlienAlfaBot/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/Alien-alfa/WhatsAppBot/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
  
   <!--
 # `CHANGE THESE SETTINGS`
