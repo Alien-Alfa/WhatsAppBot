@@ -101,8 +101,8 @@ heroku/nodejs
   </div>
   
 ```bash
-𒆜 git clone https://github.com/Alien-Alfa/AlienAlfaBot.git
-𒆜 cd AlienAlfaBot
+𒆜 git clone https://github.com/Alien-alfa/WhatsAppBot.git
+𒆜 cd WhatsAppBot
 𒆜 npm start
 ```
 
