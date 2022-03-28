@@ -37,7 +37,7 @@
  
   `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/AlienAlfaBot/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="300"></a>
+  <a href="https://github.com/Alien-alfa/AlienAlfaBot/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
  
   <!--
 # `CHANGE THESE SETTINGS`
@@ -49,10 +49,23 @@
   
   
 -->
-
-
+# `THINGS TO CHANGE IN HEROKU`
+      
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘈𝘐𝘓𝘌𝘠𝘚 𝘚𝘌𝘚𝘚𝘐𝘖𝘕
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘜𝘔𝘉𝘌𝘙    
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘖𝘞𝘕𝘌𝘙 𝘕𝘈𝘔𝘌      
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘉𝘖𝘛 𝘕𝘈𝘔𝘌 
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘞𝘖𝘙𝘒 𝘛𝘠𝘗𝘌
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘈𝘜𝘛𝘖 𝘙𝘌𝘈𝘋 
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘈𝘜𝘛𝘖 𝘛𝘠𝘗𝘌
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘈𝘜𝘛𝘖 𝘝𝘕
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘈𝘜𝘛𝘖 𝘚𝘛𝘐𝘊𝘒𝘌𝘙 
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘔𝘌𝘕𝘜 𝘛𝘠𝘗𝘌  
+- 𝘾𝙃𝘼𝙉𝙂𝙀 𒆜𝘔𝘌𝘕𝘜 𝘓𝘖𝘎𝘖 
  
-   
+  
+  
+  
 </div>
 
   
