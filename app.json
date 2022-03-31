@@ -14,6 +14,16 @@
             "required": true,
             "value": "447405935255"
         }, 
+	"WELCOME": {
+            "description": "Costom Welcome message.",
+            "required": true,
+            "value": "Hey Buddy"
+        }, 
+	"GOODBYE": {
+            "description": "Goodbye Message.",
+            "required": true,
+            "value": "Anyways See you Later"
+        }, 
         "OWNER_NAME": {
             "description": "Pleas enter your Name.",
             "required": true,
