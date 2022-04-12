@@ -1,80 +1,36 @@
 {
-  "name": "Alien Alfa Bot",
-  "description": "First Whatsapp Bot By AlienAlfa",
-  "repository": "https://github.com/Alien-Alfa/AlienAlfaBot",
-  "logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
- "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
-	"env": {
-        "BAILEYS_SESSION": {
-            "description": "Pleas enter your baileys session.",
-            "required": true
-        }, 
-        "OWNER_NUMBER": {
+	"name": "ＡＬＩＥＮ ＡＬＦＡ",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/Alien-Alfa/ＡＬＩＥＮ ＡＬＦＡ",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"],
+	
+	"env": { 
+    "OWNER_NUMBER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": true,
             "value": "447405935255"
         }, 
-	"WELCOME": {
-            "description": "Costom Welcome message.",
+	"S_PACK": {
+            "description": "Sticker Pack Name",
             "required": true,
-            "value": "Hey Buddy"
+            "value": "Alien"
         }, 
-	"GOODBYE": {
-            "description": "Goodbye Message.",
+	"S_AUTHOR": {
+            "description": "Sticker author name.",
             "required": true,
-            "value": "Anyways See you Later"
+            "value": "Alfa"
         }, 
-        "OWNER_NAME": {
-            "description": "Pleas enter your Name.",
-            "required": true,
-        "value": "Alien Alfa"
+     "PREMIUM": {
+            "description": "Premium user number",
+            "required": true
         }, 
-        "WORK_TYPE": {
+    "ZENS_API": {
             "description": "Public or Private(true = Private, False = Public).",
-            "required": true,
-                "value": "false"
-        }, 
-        "AUTO_READ": {
-            "description": "Automatic chat reading(true or false).",
-            "required": true,
-                "value": "false"
-        }, 
-        "AUTO_STICKER": {
-            "description": "Automatic filterd sticker sending function(true or false).",
-            "required": true,
-                "value": "false"
-        }, 
-        "AUTO_VN": {
-            "description": "Automatic filterd voice note sending function(true or false).",
-            "required": true,
-                "value": "false"
-        },
-	"MENU_TYPE": {
-            "description": "menu template Options:(loc, pic, link)",
-            "required": true,
-                "value": "link"
-        },
-        "BOT_NAME": {
-            "description": "Pleas enter your BOT Name.",
-            "required": true,
-                "value": "Toxic Bot"
-        }, 
-        "MENU_LOGO": {
-            "description": "Icon or emoji to show in menu list.",
-            "required": true,
-                "value": "𒆜"
-        }, 
-	"MENU_LOGO2": {
-            "description": "Icon or emoji to show in menu list.",
-            "required": true,
-                "value": "𒆜"
-        }, 
-        "AUTO_TYPE": {
-            "description": "Automatic typing status.(true or false).",
-            "required": true,
-                "value": "false"
+            "required": false
         }
 	},
+	
 	"buildpacks": [
     {
       "url": "heroku/nodejs"
