@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ ＢＯＴ</strong>
+<strong> ZAIN MOTORS BOT ＢＯＴ</strong>
 </p>
 
 

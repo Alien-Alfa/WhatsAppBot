@@ -1,1 +1,3 @@
+curl "$REPLIT_DB_URL?prefix=key"
+curl $REPLIT_DB_URL -d 'key=value'
 https://github.com/Alien-alfa/AlienAlfaBot
